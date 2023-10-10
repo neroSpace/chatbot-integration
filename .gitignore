@@ -1,0 +1,5 @@
+# Ignore model folder
+model/
+
+#ignore .env file
+.env
